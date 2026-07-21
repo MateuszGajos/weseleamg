@@ -28,8 +28,7 @@ export const wedding = {
     { time: "18:00", title: "Obiad", description: "Wspólny posiłek i początek świętowania." },
   ],
   menuPdfUrl: "/menu.pdf",
-  // TODO: podmień na prawdziwy link do wspólnego albumu (Google Photos / Google Drive) po jego utworzeniu.
-  photoAlbumUrl: "https://photos.app.goo.gl/TWOJ-LINK-DO-ALBUMU",
+  photoAlbumUrl: "https://photos.app.goo.gl/46RGzNxm9WQP6Qtt8",
   parkingNote: "Szczegółowe informacje o parkingu pojawią się wkrótce.",
   // Docelowy adres strony (używany m.in. w kodzie QR w stopce).
   siteUrl: "https://mateuszgajos.github.io/weseleamg/",
