@@ -1,6 +1,7 @@
 import Reveal from "./Reveal";
 import SectionTitle from "./SectionTitle";
 import { wedding } from "../weddingData";
+import { asset } from "../utils";
 
 export default function Menu() {
   return (
@@ -24,7 +25,7 @@ export default function Menu() {
               Pełne menu przygotowane specjalnie na nasze wesele znajdziecie w załączonym pliku PDF.
             </p>
             <a
-              href={wedding.menuPdfUrl}
+              href={asset(wedding.menuPdfUrl)}
               target="_blank"
               rel="noreferrer"
               className="inline-flex items-center gap-2 bg-rose text-white px-6 py-3 rounded-full hover:bg-burgundy transition-colors font-medium"
