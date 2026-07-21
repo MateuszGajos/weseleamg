@@ -1,6 +1,6 @@
 import { asset } from "../utils";
 
-export default function SectionBackground({ src, overlayClassName }) {
+export default function SectionBackground({ src, overlayClassName, position = "center" }) {
   return (
     <div className="absolute inset-0 -z-10 overflow-hidden">
       <img
@@ -9,8 +9,10 @@ export default function SectionBackground({ src, overlayClassName }) {
         aria-hidden
         loading="lazy"
         className="w-full h-full object-cover"
+        style={{ objectPosition: position }}
       />
       <div className={`absolute inset-0 ${overlayClassName}`} />
     </div>
   );
 }
+

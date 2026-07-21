@@ -54,6 +54,7 @@ export default function Hero() {
       <SectionBackground
         src="/background_photos/bc02107a-6d9e-4670-91c1-c2a3eeb91add.jpeg"
         overlayClassName="bg-gradient-to-b from-blush/40 via-cream/30 to-cream/60"
+        position="82% 40%"
       />
       <motion.div
         aria-hidden
