@@ -32,5 +32,5 @@ export const wedding = {
   photoAlbumUrl: "https://photos.app.goo.gl/TWOJ-LINK-DO-ALBUMU",
   parkingNote: "Szczegółowe informacje o parkingu pojawią się wkrótce.",
   // Docelowy adres strony (używany m.in. w kodzie QR w stopce).
-  siteUrl: "https://mateuszgajos.github.io/weseleagm/",
+  siteUrl: "https://mateuszgajos.github.io/weseleamg/",
 };
