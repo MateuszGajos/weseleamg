@@ -28,6 +28,7 @@ export const wedding = {
     { time: "18:00", title: "Obiad", description: "Wspólny posiłek i początek świętowania." },
   ],
   menuPdfUrl: "/menu.pdf",
+  seatingChartPdfUrl: "/rozmieszczenie-gosci.pdf",
   photoAlbumUrl: "https://photos.app.goo.gl/y6xARbcTzjBdoAQ1A",
   parkingNote: "Szczegółowe informacje o parkingu pojawią się wkrótce.",
   // Docelowy adres strony (używany m.in. w kodzie QR w stopce).
