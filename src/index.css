@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@theme {
+  --color-blush: #f6e6e8;
+  --color-rose: #b5495b;
+  --color-burgundy: #5e1a26;
+  --color-cream: #fffaf7;
+  --font-display: "Playfair Display", serif;
+  --font-body: "Cormorant Garamond", serif;
+  --font-script: "Great Vibes", cursive;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-cream);
+  font-family: var(--font-body);
+  color: var(--color-burgundy);
+}
+
+.font-display {
+  font-family: var(--font-display);
+}
+
+.font-script {
+  font-family: var(--font-script);
+}
