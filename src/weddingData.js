@@ -31,6 +31,6 @@ export const wedding = {
   // TODO: podmień na prawdziwy link do wspólnego albumu (Google Photos / Google Drive) po jego utworzeniu.
   photoAlbumUrl: "https://photos.app.goo.gl/TWOJ-LINK-DO-ALBUMU",
   parkingNote: "Szczegółowe informacje o parkingu pojawią się wkrótce.",
-  // TODO: podmień na docelowy adres strony przed drukiem zaproszeń z kodem QR.
-  siteUrl: "https://slub-agnieszka-i-mateusz.pl",
+  // Docelowy adres strony (używany m.in. w kodzie QR w stopce).
+  siteUrl: "https://mateuszgajos.github.io/weseleagm/",
 };
