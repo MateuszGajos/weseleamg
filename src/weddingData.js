@@ -26,6 +26,7 @@ export const wedding = {
     { time: "16:00", title: "Ceremonia", description: "Ślub w kościele pod wezwaniem Świętego Brata Alberta." },
     { time: "17:30", title: "Życzenia", description: "Powitanie i życzenia dla Pary Młodej na sali ArtBistro by Progres." },
     { time: "18:00", title: "Obiad", description: "Wspólny posiłek i początek świętowania." },
+    { time: "18:30", title: "Zabawa do białego rana", description: "Muzyka, tańce i wspólne świętowanie do samego rana." },
   ],
   menuPdfUrl: "/menu.pdf",
   seatingChartPdfUrl: "/rozmieszczenie-gosci.pdf",

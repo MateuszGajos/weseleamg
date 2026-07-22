@@ -5,7 +5,7 @@ const links = [
   { href: "#venue", label: "Miejsce" },
   { href: "#parking", label: "Parking" },
   { href: "#schedule", label: "Plan dnia" },
-  { href: "#seating", label: "Miejsca" },
+  { href: "#seating", label: "Stoły" },
   { href: "#menu", label: "Menu" },
   { href: "#photos", label: "Zdjęcia" },
 ];
